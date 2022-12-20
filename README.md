@@ -1,4 +1,4 @@
-## Hey 👋, This is Vitaliy
+## Hi 👋, This is Vitaliy
  
 ### About me:
 
