@@ -20,11 +20,11 @@
 
 ### Some of my projects: 
 <div id="projects">
-<a href="https://github.com/Einbruk/money_bot" target="_blank">
+<p valign="center"><a href="https://github.com/Einbruk/money_bot" target="_blank">
   <img src="https://img.shields.io/badge/Github-grey"> 
 </a> 
- Telegram bot for counting money between friends
-<br> 
+ Telegram bot for counting money between friends</p>
+
 </div>
 
 ### Some Github stats:
