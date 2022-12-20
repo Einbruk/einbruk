@@ -18,6 +18,14 @@
 </a>   
 </div>
 
+### Some of my projects: 
+<div id="projects">
+<a href="https://github.com/Einbruk/money_bot" target="_blank">
+  <img src="https://img.shields.io/badge/Github-grey"> 
+</a> 
+ Telegram bot for counting money between friends
+<br> 
+</div>
 
 ### Some Github stats:
 
