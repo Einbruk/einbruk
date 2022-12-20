@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hey 👋, This is Vitaliy
+ 
 
-<!--
-**Einbruk/einbruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛠 I'm backend developer
+- 🐍 In love with Python
+- 🇷🇺 Originally from Russia
+- 👀 Interested in Cinematography
+- ⛰ Hiking mountains
 
-Here are some ideas to get you started:
+<div id="badges">
+<a href="https://www.linkedin.com/in/einbruk/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+</a>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=MishaVyb alt=MishaVyb /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=MishaVyb&show_icons=true&include_all_commits=true)](https://github.com/MishaVyb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MishaVyb&layout=compact)](https://github.com/MishaVyb/github-readme-stats)
