@@ -10,7 +10,7 @@
 ### Contact me: 
 <div id="badges">
 <a href="https://www.linkedin.com/in/einbruk/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/LinkedIn-blue">
 </a> 
 <br>
 <a href="mailto:gumenukvitaliy@gmail.com" target="_blank">
@@ -19,7 +19,7 @@
 </div>
 
 
-### Github stats:
+### Some Github stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=einbruk&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
