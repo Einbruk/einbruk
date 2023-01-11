@@ -27,6 +27,14 @@
 
 </div>
 
+<div id="projects">
+<p valign="center"><a href="https://github.com/Einbruk/uncoached" target="_blank">
+  <img src="https://img.shields.io/badge/Github-grey"> 
+</a> 
+ Web-service for athletes to create training plan, monitor progress and automate routine tasks.</p>
+
+</div>
+
 ### Some Github stats:
 
 
