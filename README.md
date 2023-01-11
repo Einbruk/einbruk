@@ -31,6 +31,7 @@
 <p valign="center"><a href="https://github.com/Einbruk/uncoached" target="_blank">
   <img src="https://img.shields.io/badge/Github-grey"> 
 </a> 
+ <a href="http://uncoached.fun"> uncoached.fun </a>
  Web-service for athletes to create training plan, monitor progress and automate routine tasks.</p>
 
 </div>
