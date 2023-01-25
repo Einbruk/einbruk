@@ -13,6 +13,12 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue">
 </a> 
 <br>
+ 
+<a href="t.me/einbruk" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-blue">
+</a> 
+<br>
+ 
 <a href="mailto:gumenukvitaliy@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-red">
 </a>   
