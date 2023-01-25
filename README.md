@@ -14,7 +14,7 @@
 </a> 
 <br>
  
-<a href="t.me/einbruk" target="_blank">
+<a href="https://t.me/einbruk" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-blue">
 </a> 
 <br>
